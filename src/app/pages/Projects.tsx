@@ -262,11 +262,28 @@ export function Projects() {
 
         {filteredProjects.length === 0 && (
           <motion.div
-            initial={{ opacity: 0 }}
-            animate={{ opacity: 1 }}
-            className="text-center py-20"
+           initial={{ opacity: 0 }}
+            whileInView={{ opacity: 1 }}
+            transition={{ delay: 0.2 }}
+            className="flex justify-center mt-12 mb-20"
           >
-            <p className="text-gray-400 text-lg">No projects found in this category.</p>
+            <Button
+              variant="outline"
+              size="lg"
+              className="group border-white/10 bg-slate-900/40 text-gray-300 hover:bg-slate-800 hover:text-white hover:border-stone-400/50 transition-all duration-300"
+              asChild
+            >
+              <a 
+                href="https://github.com/dhurghamCreation?tab=repositories" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="flex items-center"
+              >
+                <Github className="w-5 h-5 mr-2 group-hover:scale-110 transition-transform" />
+                Explore My Other Projects
+                <ExternalLink className="w-4 h-4 ml-2 opacity-50 group-hover:opacity-100 transition-opacity" />
+              </a>
+            </Button>
           </motion.div>
         )}
       </div>
