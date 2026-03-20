@@ -154,7 +154,7 @@ export function DesignProjectsSection() {
         <div className="text-center">
           {/* FIX: Wrap the button in a proper anchor tag */}
           <a 
-            href="https://www.linkedin.com/in/dhurgham-a-b1428a253/"
+            href="https://www.behance.net/dhurghamalsaadi"
             target="_blank" 
             rel="noopener noreferrer"
             className="inline-block"
