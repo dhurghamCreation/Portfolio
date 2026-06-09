@@ -50,7 +50,7 @@ export function Projects() {
       description:
         "Server-side messaging backend project with routing, request handling, and practical API structure.",
       image: "/assets/images/message.png",
-      demoUrl: "https://chat-server-production-9796.up.railway.app/",
+      demoUrl: "https://huggingface.co/spaces/Dhurgh/FireTech-Message-server",
       codeUrl: "https://github.com/dhurghamCreation/FireTech-Messager-Server",
       gradient: "from-slate-500/20 to-stone-500/15",
     },
