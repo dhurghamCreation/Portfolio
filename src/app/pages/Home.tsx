@@ -28,7 +28,7 @@ import { DhSignature } from "../components/ui/dh-logo";
 export function Home() {
   const portfolioImages = {
     // Files in the 'public' folder are accessed starting with '/'
-    profile: "/assets/images/Dhurgham.png",
+    profile: "/assets/images/Dhurgham-new.png",
     foundation: "/assets/images/Moate bus.jpg",
     university: "/assets/images/Unig.jpg",
   };
