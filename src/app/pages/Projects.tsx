@@ -101,6 +101,126 @@ export function Projects() {
       codeUrl: "https://github.com/dhurghamCreation/Galactic-Explorer",
       gradient: "from-slate-500/20 to-stone-700/20",
     },
+     {
+      title: "topological-data-analysis-tda-visualizer",
+      category: "Math",
+      tags: ["Topological", "data", "analysis", "HTML", "TypeScript"],
+      description:
+        ".",
+      image: "/assets/images/data.png",
+      
+      demoUrl: "https://vercel.com/dhurgham-s-projects/topological-data-analysis-tda-visualizer",
+      codeUrl: "https://github.com/dhurghamCreation/topological-data-analysis-visualizer",
+      gradient: "from-slate-500/20 to-stone-700/20",
+    },
+     {
+      title: "interactive1-3d-animated-veggie",
+      category: "web",
+      tags: [ "TypeScript", "HTML", "Three.js"],
+      description:
+        ".",
+      image: "/assets/images/3ddd.png",
+      
+      demoUrl: "https://interactive1-3d-animated-veggie-9etekqoyp-dhurgham-s-projects.vercel.app/",
+      codeUrl: "https://github.com/dhurghamCreation/VeggieCraft3D",
+      gradient: "from-slate-500/20 to-stone-700/20",
+    },
+     {
+      title: "streamalign",
+      category: "web",
+      tags: ["Python"],
+      description:
+        "Drop-in, memory-efficient attention for PyTorch with CPU ⟷ GPU KV-cache offloading",
+      image: "/assets/images/exp.png",
+      
+      demoUrl: "https://streamalign-gm7xbdgtzopbr73ditgspr.streamlit.app/",
+      codeUrl: "https://github.com/dhurghamCreation/streamalign",
+      gradient: "from-slate-500/20 to-stone-700/20",
+    },
+     {
+      title: "",
+      category: "",
+      tags: ["Rust", "Python", "Game Service", "HTML", "Javascript"],
+      description:
+        "A cinematic space exploration app built with Rust + Bevy.",
+      image: "/assets/images/exp.png",
+      
+      demoUrl: "https://github.com/dhurghamCreation/sentinel-dashboard",
+      codeUrl: "https://github.com/dhurghamCreation/Galactic-Explorer",
+      gradient: "from-slate-500/20 to-stone-700/20",
+    },
+     {
+      title: "Galactic-Explorer",
+      category: "game",
+      tags: ["Rust", "Python", "Game Service", "HTML", "Javascript"],
+      description:
+        "A cinematic space exploration app built with Rust + Bevy.",
+      image: "/assets/images/exp.png",
+      
+      demoUrl: "https://galactic-explorer-six.vercel.app/",
+      codeUrl: "https://github.com/dhurghamCreation/Galactic-Explorer",
+      gradient: "from-slate-500/20 to-stone-700/20",
+    },
+     {
+      title: "Galactic-Explorer",
+      category: "game",
+      tags: ["Rust", "Python", "Game Service", "HTML", "Javascript"],
+      description:
+        "A cinematic space exploration app built with Rust + Bevy.",
+      image: "/assets/images/exp.png",
+      
+      demoUrl: "https://galactic-explorer-six.vercel.app/",
+      codeUrl: "https://github.com/dhurghamCreation/Galactic-Explorer",
+      gradient: "from-slate-500/20 to-stone-700/20",
+    },
+     {
+      title: "Galactic-Explorer",
+      category: "game",
+      tags: ["Rust", "Python", "Game Service", "HTML", "Javascript"],
+      description:
+        "A cinematic space exploration app built with Rust + Bevy.",
+      image: "/assets/images/exp.png",
+      
+      demoUrl: "https://galactic-explorer-six.vercel.app/",
+      codeUrl: "https://github.com/dhurghamCreation/Galactic-Explorer",
+      gradient: "from-slate-500/20 to-stone-700/20",
+    },
+     {
+      title: "Galactic-Explorer",
+      category: "game",
+      tags: ["Rust", "Python", "Game Service", "HTML", "Javascript"],
+      description:
+        "A cinematic space exploration app built with Rust + Bevy.",
+      image: "/assets/images/exp.png",
+      
+      demoUrl: "https://galactic-explorer-six.vercel.app/",
+      codeUrl: "https://github.com/dhurghamCreation/Galactic-Explorer",
+      gradient: "from-slate-500/20 to-stone-700/20",
+    },
+     {
+      title: "Galactic-Explorer",
+      category: "game",
+      tags: ["Rust", "Python", "Game Service", "HTML", "Javascript"],
+      description:
+        "A cinematic space exploration app built with Rust + Bevy.",
+      image: "/assets/images/exp.png",
+      
+      demoUrl: "https://galactic-explorer-six.vercel.app/",
+      codeUrl: "https://github.com/dhurghamCreation/Galactic-Explorer",
+      gradient: "from-slate-500/20 to-stone-700/20",
+    },
+     {
+      title: "Galactic-Explorer",
+      category: "game",
+      tags: ["Rust", "Python", "Game Service", "HTML", "Javascript"],
+      description:
+        "A cinematic space exploration app built with Rust + Bevy.",
+      image: "/assets/images/exp.png",
+      
+      demoUrl: "https://galactic-explorer-six.vercel.app/",
+      codeUrl: "https://github.com/dhurghamCreation/Galactic-Explorer",
+      gradient: "from-slate-500/20 to-stone-700/20",
+    },
     
     
   ];
