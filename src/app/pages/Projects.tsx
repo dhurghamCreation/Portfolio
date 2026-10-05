@@ -89,6 +89,19 @@ export function Projects() {
       codeUrl: "https://github.com/dhurghamCreation/tictactoe-server",
       gradient: "from-slate-500/20 to-stone-700/20",
     },
+    {
+      title: "Galactic-Explorer",
+      category: "game",
+      tags: ["Rust", "Python", "Game Service", "HTML", "Javascript"],
+      description:
+        "A cinematic space exploration app built with Rust + Bevy.",
+      image: "/assets/images/exp.png",
+      
+      demoUrl: "https://galactic-explorer-six.vercel.app/",
+      codeUrl: "https://github.com/dhurghamCreation/Galactic-Explorer",
+      gradient: "from-slate-500/20 to-stone-700/20",
+    },
+    
     
   ];
 
